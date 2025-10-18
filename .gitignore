@@ -1,3 +1,14 @@
+# Local config files
+config_local.py
+*_local.py
+.env
+project_root.py
+notebooks_local/
+
+# Output files
+output/figures/
+output/tables/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
