@@ -1,3 +1,9 @@
+# Data files
+data/cattle_inv_2000_2025.xlsx
+
+# Scripts
+
+
 # Local config files
 config_local.py
 *_local.py
