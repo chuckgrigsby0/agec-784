@@ -19,6 +19,7 @@ dependencies:
   - matplotlib
   - seaborn
   - plotly
+  - python-graphviz
   
   # Machine learning & statistics
   - scikit-learn
